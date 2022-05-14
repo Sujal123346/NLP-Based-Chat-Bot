@@ -1,4 +1,5 @@
-# NLP-Based-Chat-Bot
+# NLP-based-Chatbot
+
 A simple Chat bot using NLP techniques
 
 It answers some basic things about "what is a chatbot".
